@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/hacker777-cris/youtube-downloader.git
+git clone https://github.com/hacker777-cris/youtube_downloader.git
 
 
 2. Change into the project directory:
